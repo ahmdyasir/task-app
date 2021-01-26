@@ -1,0 +1,1 @@
+This is task app for educational purposes
