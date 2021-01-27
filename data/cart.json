@@ -1,0 +1,12 @@
+{
+    "products": [{
+        "id": "0.8333287833548684",
+        "qty": 2,
+        "img": "https://www.mercator-ocean.fr/wp-content/uploads/2019/11/Mock-Up_BlueBookCopernicus_2.jpg"
+    }, {
+        "id": "0.8028550050515084",
+        "qty": 1,
+        "img": "https://cdn.shopify.com/s/files/1/0594/6341/products/805BK_cd7408aa-498c-4363-82b1-71f0343b888e_480x480.jpg?v=1510671792"
+    }],
+    "totalPrice": 54.97
+}
